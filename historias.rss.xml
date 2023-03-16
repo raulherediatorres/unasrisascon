@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>Unas Risas con Raúl Heredia</title>
+    <link>https://taintless-transport.000webhostapp.com/index.html</link>
+    <description>Últimas historias publicadas en mi sitio web</description>
+    <item>
+        <title>Ja Morant y la amenaza</title>
+        <link>https://taintless-transport.000webhostapp.com/historia1.html</link>
+        <description>Se desconoce si el base formado en Murray State volverá en el curso actual a la disciplina de los Memphis Grizzlies. Año en el que ponían rumbo a jugar con solvencia la post-temporada</description>
+    </item>
+    <item>
+        <title>Kobe Bryant está 'vivo'</title>
+        <link>https://taintless-transport.000webhostapp.com/historia2.html</link>
+        <description>Los Ángeles rinde culto al mito de la NBA en algunas de sus calles más humildes</description>
+    </item>
+    <item>
+        <title>Las obras del Barça</title>
+        <link>https://taintless-transport.000webhostapp.com/historia3.html</link>
+        <description>El drenaje, casi listo antes de instalar un césped de baja calidad que será suplido a finales de julio tras la celebración de nueve conciertos</description>
+    </item>
+</channel>
+</rss>

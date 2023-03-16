@@ -1,0 +1,60 @@
+.header{
+    display: flex;
+    align-items: flex-end;
+    justify-content: end;
+    padding: 30px;
+}
+.header i{
+    padding-right: 20px;
+    font-size: 40px;
+    color: rgb(48, 48, 48);
+}
+.principal{
+    text-align: center;
+    color: rgb(194, 27, 27);
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+}
+.container{
+    display: flex;
+}
+.titulos{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 100px;
+    padding-left: 600px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.ficha1{
+    box-sizing: border-box;
+    border: 1px solid gray;
+    box-shadow: 0px 1px 20px grey;
+    border-radius: 2px;
+    margin: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+.ficha1 img{
+    width: 100%;
+}
+.ficha1 p{
+    margin: 15px;
+}
+.ficha1 h2{
+    margin: 15px;
+}
+.ficha2{
+    box-sizing: border-box;
+    border: 1px solid gray;
+    box-shadow: 0px 1px 20px grey;
+    border-radius: 2px;
+    margin: 10px;
+    font-family: 'Roboto', sans-serif;
+
+
+}
+.ficha2 audio{
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
